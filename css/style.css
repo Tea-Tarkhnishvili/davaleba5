@@ -1,14 +1,17 @@
 header {
     width: 1280px;
-    text-align: 0 auto;
+    margin: 0 auto;
     border: 5px solid red;
+    margin-bottom: 55px;
 }
 
 h1 {
-    width: 376px;
+    /* width: 376px; */
     font-size: 70px;
     border: 5px solid red;
     vertical-align: middle;
+    display: inline-block;
+   
 
 }
 
@@ -16,8 +19,10 @@ nav {
 
     border: 5px solid green;
     display: inline-block;
-    margin-left: 67px;
-    text-align: middle;
+    margin-left: 46px;
+    /* text-align: middle; */
+    font-size: 18px;
+    
     
 
 }
@@ -26,4 +31,12 @@ li {
     text-align: middle;
     display: inline-block;
     padding-right: 113px;
+   
+}
+section{
+    width: 1280px;
+    height: 779px;
+    margin: 0 auto;
+    border: 5px solid green;
+    background-color: #306b34;
 }
