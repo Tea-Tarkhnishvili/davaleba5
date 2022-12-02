@@ -34,6 +34,8 @@ section{
     margin: 0 auto;
     border: 5px solid green;
     background-color: #306b34;
+    padding-left: 51px;
+    padding-top: 188px;
 }
 img2{
     width: 679px;
@@ -58,6 +60,7 @@ article{
 h3{
     font-size: 40px;
     color: #19381f;
+    padding-bottom: 55px;
 }
 
 p{
