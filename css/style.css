@@ -6,13 +6,10 @@ header {
 }
 
 h1 {
-    /* width: 376px; */
     font-size: 70px;
     border: 5px solid red;
     vertical-align: middle;
     display: inline-block;
-   
-
 }
 
 nav {
@@ -20,11 +17,9 @@ nav {
     border: 5px solid green;
     display: inline-block;
     margin-left: 46px;
-    /* text-align: middle; */
+    text-align: middle;
     font-size: 18px;
     
-    
-
 }
 
 li {
@@ -39,4 +34,33 @@ section{
     margin: 0 auto;
     border: 5px solid green;
     background-color: #306b34;
+}
+img2{
+    width: 679px;
+    height: 453px;
+    display: inline-block;
+  padding-left: 1000px;
+   
+    /* padding-right: 95px;
+    padding-top: 174px;
+    text-align: top; */
+}
+
+article{
+   width: 307px;
+    height: 380px;
+    display: inline-block;
+    text-align: left;
+    vertical-align: top;
+    margin-left: 89px;
+    margin-bottom: 300px;
+}
+h3{
+    font-size: 40px;
+    color: #19381f;
+}
+
+p{
+    font-size: 20px;
+    color: #f4f4f1;
 }
