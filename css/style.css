@@ -9,6 +9,7 @@ h1 {
     font-size: 70px;
     vertical-align: middle;
     display: inline-block;
+    font-family: 'Zen Dots';
 }
 
 nav {
@@ -17,6 +18,7 @@ nav {
     margin-left: 46px;
     text-align: middle;
     font-size: 18px;
+    font-family: 'Zen Dots';
 
 }
 
@@ -24,6 +26,7 @@ li {
     text-align: middle;
     display: inline-block;
     padding-right: 113px;
+    font-family: 'Zen Dots';
 
 }
 /* დაიწყო სექცია1 */
@@ -34,6 +37,7 @@ li {
     background-color: #306b34;
     padding-left: 51px;
     padding-top: 188px;
+    font-family: 'Zen Dots';
 }
 
 img2 {
@@ -41,6 +45,7 @@ img2 {
     height: 453px;
     display: inline-block;
     padding-left: 1000px;
+  
 
 
 }
@@ -53,24 +58,28 @@ img2 {
     vertical-align: top;
     margin-left: 89px;
     margin-bottom: 300px;
+    font-family: 'Zen Dots';
 }
 
 h3 {
     font-size: 40px;
     color: #19381f;
     padding-bottom: 55px;
+    font-family: 'Zen Dots';
   
 }
 
 p {
     font-size: 20px;
     color: #f4f4f1;
+    font-family: 'Zen Dots';
 }
 /* დაიწყო სექცია2 */
 .section2 {
     width: 1280px;
     height: 465px;
     margin: 0 auto;
+    font-family: 'Zen Dots';
 
 }
 
@@ -81,6 +90,7 @@ p {
     padding-left: 198px;
     padding-right: 138px;
     display: inline-block;
+    font-family: 'Zen Dots';
 }
 
 h4 {
@@ -89,6 +99,7 @@ h4 {
     font-size: 40px;
     font-style: italic;
     margin-bottom: 82px;
+    font-family: 'Zen Dots';
 }
 
 .p2 {
@@ -98,6 +109,7 @@ h4 {
     font-style: italic;
     color: #7F7F7F;
     padding-right: 164px;
+    font-family: 'Zen Dots';
 }
 
 button {
@@ -105,17 +117,18 @@ button {
     background-color: #36413E;
     color: white;
     margin-top: 82px;
+    font-family: 'Zen Dots';
 
 }
 /* დაიწყო ფუთერი */
 footer {
     width: 1280px;
-    height: 48px;
     font-size: 20px;
     margin: 0 auto;
     vertical-align: middle;
     background-color: #306B34;
     color:white ;
+    font-family: 'Zen Dots';
 
 
 }
@@ -126,5 +139,6 @@ h6 {
     display: inline-block;
     padding-right: 500px;
     vertical-align: middle;
+    font-family: 'Zen Dots';
 
 }
