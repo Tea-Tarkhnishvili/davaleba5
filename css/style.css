@@ -3,6 +3,7 @@ header {
     width: 1280px;
     margin: 0 auto;
     margin-bottom: 55px;
+   
 }
 
 h1 {
@@ -10,23 +11,27 @@ h1 {
     vertical-align: middle;
     display: inline-block;
     font-family: 'Zen Dots';
+    */
 }
 
 nav {
 
     display: inline-block;
-    margin-left: 46px;
+    margin-left: 50px;
     text-align: middle;
     font-size: 18px;
     font-family: 'Zen Dots';
+   
+    
 
 }
 
 li {
     text-align: middle;
     display: inline-block;
-    padding-right: 113px;
+    padding-right: 60px;
     font-family: 'Zen Dots';
+    margin: 0 auto;
 
 }
 /* დაიწყო სექცია1 */
@@ -123,7 +128,7 @@ button {
 /* დაიწყო ფუთერი */
 footer {
     width: 1280px;
-    font-size: 20px;
+    font-size: 12px;
     margin: 0 auto;
     vertical-align: middle;
     background-color: #306B34;
@@ -142,3 +147,6 @@ h6 {
     font-family: 'Zen Dots';
 
 }
+/* .Copyright[
+    display: inline-block;
+] */
